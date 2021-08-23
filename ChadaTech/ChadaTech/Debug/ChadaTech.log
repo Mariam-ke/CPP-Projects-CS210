@@ -1,0 +1,5 @@
+﻿  Source1.cpp
+Source1.obj : error LNK2005: "int __cdecl displayClock(int,int,int)" (?displayClock@@YAHHHH@Z) already defined in Source.obj
+Source1.obj : error LNK2005: "void __cdecl displayMenu(void)" (?displayMenu@@YAXXZ) already defined in Source.obj
+Source1.obj : error LNK2005: _main already defined in Source.obj
+U:\ChadaTech\ChadaTech\Debug\ChadaTech.exe : fatal error LNK1169: one or more multiply defined symbols found
